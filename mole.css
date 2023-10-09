@@ -1,6 +1,7 @@
 /* Your code here */
 
 .wgs {
+  display: inline-block; 
   height: 482px; 
   position: relative;  
   width: 640;
